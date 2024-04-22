@@ -7,33 +7,8 @@
     <title>azure社内研修</title>
     
     
-    <style type="text/css">
-     
-    body {background: #FFF; color:black; }
-    h1 {background: #00F; color:#FFF; }
+        <link rel="stylesheet" href="style.css">
 
-    h1 { font-size: 2em; }
-      h2 { font-size: 1.2em; }
-
-    h1 {font-size:2em; borderradius: 10px; padding-left: 10px; }
-    
-
-
-    body { margin-left: 2em; margin-right: 2em; }
-
-    a:link {color: darkblue; }
-    a:visited {color: perple; }
-    a:hover {color: darkorange; }
-    a {text-decoration: underline; }
-
-   table, td, th { border: 8px solid black; }
-   td, th { padding: 8px; }
-   th {background: white; }
-   td {background: white }
-      
-
-
-      </style>
     
   </head>
  
@@ -45,7 +20,6 @@
 
 　<table>
 
-<br>
     <tr><td>名前</td><td>小林 弘太（こばやし こうた）</td>
     </tr>
     <tr><td>生年月日</td><td>2001年6月3日</td>
@@ -83,12 +57,7 @@
     <tr>
       <td>最近の悩み</td><td>日焼けしすぎてる</td>
     </tr>
-
-<br>
  
-
-
-
 
        </table>
     
