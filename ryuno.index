@@ -6,46 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>azure社内研修</title>
     
-    
-    <style type="text/css">
-     
-    body {background: #FFF; color:black; }
-    h1 {background: #00F; color:#FFF; }
 
-    h1 { font-size: 2em; }
-      h2 { font-size: 1.2em; }
+      <link rel="stylesheet" href="style.css">
 
-    h1 {font-size:2em; borderradius: 10px; padding-left: 10px; }
-    
-
-
-    body { margin-left: 2em; margin-right: 2em; }
-
-    a:link {color: darkblue; }
-    a:visited {color: perple; }
-    a:hover {color: darkorange; }
-    a {text-decoration: underline; }
-
-   table, td, th { border: 8px solid black; }
-   td, th { padding: 8px; }
-   th {background: white; }
-   td {background: white }
-      
-
-
-      </style>
-    
   </head>
  
   <body>
 
-<P><a href="index.html"></a></p>
+ <a href="updateindex.html"></a>
  
 　<table>
 
 
-<br>
-
+<p></p>
 
     <tr><td>名前</td><td>西内 龍之介（にしうち りゅうのすけ）</td>
     </tr>
@@ -58,7 +31,7 @@
     <tr><td>趣味</td><td>サッカー、ドライブ、お酒、スニーカー集め</td>
     </tr>
     <tr><td>特技</td><td>1vs1、大食い</td>
-    </tr
+    </tr>
     <tr><td>座右の銘</td><td>死ななきゃ安い</td>
     </tr>
     <tr><td>好きな食べ物</td><td>生魚、チャーハン、ハイボール</td>
@@ -69,9 +42,6 @@
     </tr>
     <tr><td>最近の悩み</td><td>朝がしんどい</td>
     </tr>
-
-   
-<br>
 
 
 
