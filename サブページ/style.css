@@ -1,0 +1,21 @@
+body {background: #FFF; color :black}
+    h1 {background: #00F; color:#FFF; }
+
+    h1 { font-size: 2em; }
+      h2 { font-size: 1.2em; }
+
+    h1 {font-size:2em; border-radius: 10px; padding-left: 10px; }
+    
+
+
+    body { margin-left: 2em; margin-right: 2em; }
+
+    a:link {color: darkblue; }
+    a:visited {color: #7159A6; }
+    a:hover {color: darkorange; }
+    a {text-decoration: underline; }
+
+   table, td, th { border: 8px solid black; }
+   td, th { padding: 8px; }
+   th {background: white; }
+   td {background: white }
